@@ -8,15 +8,13 @@ Watch gameplay footage demonstrating the game's mechanics, enemy behaviour, and 
 
 ### Enemy AI & Navigation
 <!-- Replace with your GitHub video attachment URL -->
-[Enemy AI Gameplay Video](PASTE_VIDEO_URL_HERE)
+[Enemy AI Gameplay Video](https://github.com/user-attachments/assets/3b150bfb-b3c8-4f0f-a34c-0c6bf2449256)
 
-### Interactive Gameplay
+### Interactiv Gameplay
 <!-- Replace with your GitHub video attachment URL -->
-[Interactive Gameplay Video](PASTE_VIDEO_URL_HERE)
+[Interactive Gameplay Video](https://github.com/user-attachments/assets/133553b6-1379-47ee-aef0-b55839abe6e5)
 
-### Full Gameplay Walkthrough
-<!-- Replace with your GitHub video attachment URL -->
-[Full Gameplay Video](PASTE_VIDEO_URL_HERE)
+
 
 ## 🕹️ Gameplay Overview
 
